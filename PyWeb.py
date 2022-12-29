@@ -37,8 +37,6 @@ class ServerControl(tk.Tk):
         self.port_entry.pack(side="right", fill="both", expand=True)
         self.port_label = tk.Label(self.input_frame, text="Port:")
         self.port_label.pack(side="right", fill="both", expand=True)
-        
-
 
         # Create a label and scroll wheel for the directory
         self.dir_label = tk.Label(self.input_frame, text="Directory:")
