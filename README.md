@@ -1,6 +1,8 @@
 # PyWeb
 Simple python http server gui for port and directory selection
 
+How to start:
+python3 PyWeb.py
 
 
 Server off:
